@@ -55,6 +55,18 @@ Password : "https://discord.gg/mjS5J2K3ep"
 Secure : true
 ```
 
+### Hosted by @ [Konny](https://github.com/konnyoung)
+[Support Server](https://discord.gg/V89yM3ZXBW) | [Website](https://kennyy.com.br)
+
+Version 4.2.2 | Kennyylink plugin (YouTube/Spotify only)
+
+```bash
+Host : lavalink.kennyy.com.br
+Port : 443
+Password : "kennyy.com.br"
+Secure : true
+```
+
 ### Hosted by @ [TriniumHost](https://triniumhost.com)
 [Live Stats](https://lavalink-status.triniumhost.com) | [Support](https://lavalink-status.triniumhost.com/suporte) | [Arthur Website](https://adssousag.is-a.dev/)
 
